@@ -1,2 +1,2 @@
 # new-demo
-this is my git repo <br> Author
+this is my 1st git repo <br> Author
