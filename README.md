@@ -1,2 +1,2 @@
 # new-demo
-thsi is my git repo
+this is my git repo
